@@ -1,2 +1,2 @@
 # 2017_Huawei_ZTE_game
-这是本人参加2017年华为、中兴的算法挑战大赛，所完成的代码，均是本人独立完成的。
+algorithm design
